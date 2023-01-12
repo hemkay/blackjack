@@ -1,6 +1,6 @@
 # GitHub Guide
 
-![GitHub Guide](aa.png)
+![GitHub Guide](git.png)
 
 ## Introduction
 GitHub is a version control and collaboration platform used for hosting code. It allows and makes collaboration easy within teams or group of people across projects from anywhere around the world.
